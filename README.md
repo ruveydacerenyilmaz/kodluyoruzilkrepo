@@ -1,8 +1,6 @@
 # **KODLUYORUZ İLK REPO**
 Bu repo [Kodluyoruz Git Eğitimi](https://app.patika.dev/courses/git) kapsamında açtığım ilk repo. İçeriğinde bir adet README.md dosyasını barındırmakta.
 
-![github](figures/github.png)
-
 ---
 ## **Installation**
 ```bash
